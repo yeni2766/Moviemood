@@ -1,3 +1,4 @@
+<img width="100%" alt="moviemood" src="https://github.com/user-attachments/assets/73e2559b-74c4-4d1f-bde2-52dbfe036419" />
 # 🎬 Movie Mood
 
 A movie recommendation web app that suggests films based on your current mood.
