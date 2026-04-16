@@ -32,4 +32,4 @@ Users can select a mood and instantly get a list of movies fetched from an exter
 	3.	Fetches movies from TMDB API
 	4.	Displays results in a slideshow format
 
-Try it here - 
+Try it here - https://moviemood-x6gp.vercel.app/
